@@ -8,7 +8,7 @@ Updated at the end of every task. This file is the project's memory between chat
 |---|---|---|---|---|
 | G0 Repo setup | DONE (merged) | `chore/G0-repo-setup` | merged | |
 | G1a Requirements + DB design | IN REVIEW | `docs/G1a-requirements-db` | - | `docs/requirements.md` (52 PDF FR-IDs + 63 new IDs), `docs/database-design.md` (36 PDF + 18 new tables), source PDFs in `docs/source/` |
-| G1b Screens + content | IN REVIEW | `docs/G1b-screens-content` | - | `docs/screens.md` (65 screens across 13 functional sections, including Developer Dashboard SCR-19 from PDF 2.2 #4), `docs/content/faq.md`, `docs/content/pricing.md`, `docs/content/how-it-works.md`, headings added to all 4 `docs/legal/*.md` files. PDF successfully inspected. |
+| G1b Screens + content | DONE (merged) | `docs/G1b-screens-content` | merged (#1) | `docs/screens.md` (65 screens across 13 functional sections, including Developer Dashboard SCR-19 from PDF 2.2 #4), `docs/content/faq.md`, `docs/content/pricing.md`, `docs/content/how-it-works.md`, headings added to all 4 `docs/legal/*.md` files. PDF successfully inspected. |
 
 ## Decisions needed from both founders (before A2/A3/A8 start)
 Answer these in `docs/requirements.md` section 17 (and `docs/decisions.md` if a rule changes):
